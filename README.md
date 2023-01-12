@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alimaslax
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning React-Native and Groovy
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning about Transformers
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me by email
 
